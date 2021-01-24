@@ -1,1 +1,1 @@
- pyspark_ALS_recommendation_example
+ pyspark ALS recommendation example
